@@ -171,10 +171,10 @@ MAIS = [
 # Footer
 PODCASTS_AMIGOS = [
         ("Castálio Podcast", "http://castalio.info/"),
-        ("Piratas da Internet", "http://piratasdainternet.com.br/"),
-        ("DatabaseCast", "http://imasters.com.br/perfil/databasecast"),
-        ("SciCast", "http://www.scicast.com.br/scicast/"),
+        ("Blog do Edivaldo Brito", "http://www.edivaldobrito.com.br/"),
         ("NetoCast", "http://www.josecastanhasneto.blogspot.com.br/"),
+        ("DatabaseCast", "http://imasters.com.br/perfil/databasecast"),
+        ("Piratas da Internet", "https://piratasdainternet.github.io/"),
         ]
 
 LINKS_ACOMPANHE = (
@@ -185,6 +185,7 @@ LINKS_ACOMPANHE = (
     ("Grupo de Discussão", "fa-group", "https://groups.google.com/forum/?hl=pt-BR#!forum/hackncast"),
     ("Feed RSS", "fa-rss", "http://feeds.feedburner.com/hack-n-cast"),
     ("iTunes", "fa-apple", "https://itunes.apple.com/br/podcast/hack-n-cast/id884916846"),
+    ("Telegram", "fa-paper-plane", "https://telegram.me/hackncast"),
     )
 
 CATEGORY_IMAGES = {

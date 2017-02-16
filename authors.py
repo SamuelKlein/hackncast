@@ -105,6 +105,25 @@ PEDRO_HENRIQUE = {
     'class': 'Hacker Mirin',
         }
 
+EDUARDO_ELIAS = {
+    'image': '/images/participantes/eduardo-elias.jpg',
+    'class': 'Economy Hacker',
+    'race': 'Mineiro Warrior',
+    'description': 'Autor do podcast <a title="Papo Bitcoin" href="http://papobitcoin.com/">Papo Bitcoin</a>.',
+    'links' : [
+        ("Twitter", "fa-twitter", "https://twitter.com/papobitcoin"),
+        ]
+    }
+
+BRYAN_MORENO = {
+    'image': 'https://pbs.twimg.com/profile_images/707378747809202176/-lhgtc-5_400x400.jpg',
+    'class': 'Star Hunter',
+    'race': 'Humano',
+    'links' : [
+        ("Twitter", "fa-twitter", "https://twitter.com/morenobryan"),
+        ]
+    }
+
 SITEAUTHORS = {
     'Magnun': MAGNUN,
     'Bruno': BRUNO,
@@ -123,4 +142,6 @@ SITEAUTHORS = {
     'Diego Sueiro': DIEGO_SUEIRO,
     'André Delai': ANDRE_DELAI,
     'Pedro Henrique': PEDRO_HENRIQUE,
+    'Eduardo Elias': EDUARDO_ELIAS,
+    'Bryan Moreno': BRYAN_MORENO,
     }
